@@ -3,27 +3,27 @@
 Preparation course for the summer school DMDU 2022.
 
 ## Content
-	* Variables and data types.
-	* Collections:
-		- Lists
-		- Tuples
-		- Sets
-		- Dictionaries
-	* Control Flow:
-		- while loop
-		- if-elif-else
-		- for loop
-	* List and Dictionaries comprehensions:
-	* Functions:
-		- Basic functions definitions.
-		- Lambda functions.
-	* Classes and Object Oriented Programming (OOP).
-		- Class definition
-		- Instance variables
-		- Methods
-		- Inheritance
-	* Reading and writing files.
-	* Numpy
+* Variables and data types.
+* Collections:
+	- Lists
+	- Tuples
+	- Sets
+	- Dictionaries
+* Control Flow:
+	- while loop
+	- if-elif-else
+	- for loop
+* List and Dictionaries comprehensions:
+* Functions:
+	- Basic functions definitions.
+	- Lambda functions.
+* Classes and Object Oriented Programming (OOP).
+	- Class definition
+	- Instance variables
+	- Methods
+	- Inheritance
+* Reading and writing files.
+* Numpy
 
 ## Additional resources
 
