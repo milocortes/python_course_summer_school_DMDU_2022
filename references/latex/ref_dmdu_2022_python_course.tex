@@ -1,0 +1,113 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{longtable}
+\usepackage{natbib}
+\usepackage[a4paper]{geometry}
+\usepackage{pdflscape}
+
+\title{DMDU references}
+\begin{document}
+\sffamily
+
+\newgeometry{hmargin=.4in,vmargin=0.1in}
+
+\begin{landscape}
+\maketitle
+
+\begin{longtable}{|l|l|l|}
+\caption{References by topic}\\
+\hline
+\textbf{Section} & \textbf{Topic} & \textbf{Reference} \\
+\hline
+\endfirsthead
+\multicolumn{3}{c}%
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+
+\hline
+\endhead
+\hline \multicolumn{3}{r}{\textit{Continued on next page}} \\
+\endfoot
+\hline
+\endlastfoot
+Variables and data types & Variables and data types & \cite{ceder2018quick} \\
+    Variables and data types & What Python doesn't do as well & \cite{ceder2018quick} \\
+    Variables and data types & Numbers & \cite{ceder2018quick} \\
+    Variables and data types & Variables and assignments & \cite{ceder2018quick} \\
+    Variables and data types & Expressions & \cite{ceder2018quick} \\
+    Variables and data types & Strings & \cite{ceder2018quick} \\
+    Variables and data types & Casting variables & \cite{ceder2018quick} \\
+    Variables and data types & Getting input from user & \cite{ceder2018quick} \\
+    Variables and data types & Basic python style & \cite{ceder2018quick} \\
+    
+Collections & Data Structures & \cite{gorelick2020high} \\
+    Collections & Lists and tuples & \cite{gorelick2020high} \\
+    Collections & Lists & \cite{ceder2018quick} \\
+    Collections & List indices & \cite{ceder2018quick} \\
+    Collections & List slicing & \cite{ceder2018quick} \\
+    Collections & Modifying lists & \cite{ceder2018quick} \\
+    Collections & Sorting lists & \cite{ceder2018quick} \\
+    Collections & Other common list operations & \cite{ceder2018quick} \\
+    Collections & List concatenation with the + operator & \cite{ceder2018quick} \\
+    Collections & List initialization with the * operator & \cite{ceder2018quick} \\
+    Collections & List minimum of maximum with min and max & \cite{ceder2018quick} \\
+    Collections & List matches with count & \cite{ceder2018quick} \\
+    Collections & Summary of list operations & \cite{ceder2018quick} \\
+    Collections & Tuples & \cite{ceder2018quick} \\
+    Collections & Packing and unpacking tuples & \cite{ceder2018quick} \\
+    Collections & Converting between lists and tuples & \cite{ceder2018quick} \\
+    Collections & Sets & \cite{ceder2018quick} \\
+    Collections & Set operations & \cite{ceder2018quick} \\
+    Collections & Dictionaries & \cite{ceder2018quick} \\
+    Collections & What is a dictionary? & \cite{ceder2018quick} \\
+    Collections & Other dictionary operations & \cite{ceder2018quick} \\
+    Collections & Word counting & \cite{ceder2018quick} \\
+    Collections & What can be used as key? & \cite{ceder2018quick} \\
+    Collections & Sparse matrices & \cite{ceder2018quick} \\
+    
+Control flow & The while loop & \cite{ceder2018quick} \\
+    Control flow & The if-elif-else & \cite{ceder2018quick} \\
+    Control flow & Where's the case statement in Python? & \cite{ceder2018quick} \\
+    Control flow & The for loop & \cite{ceder2018quick} \\
+    Control flow & The range function & \cite{ceder2018quick} \\
+    Control flow & Controlling range with starting and stepping values & \cite{ceder2018quick} \\
+    Control flow & The for loop and tuple unpacking & \cite{ceder2018quick} \\
+    Control flow & The enumerate function & \cite{ceder2018quick} \\
+    Control flow & The zip function & \cite{ceder2018quick} \\
+    
+Functions & Basic function definitions & \cite{ceder2018quick} \\
+    Functions & Positional parameters & \cite{ceder2018quick} \\
+    Functions & Default values & \cite{ceder2018quick} \\
+    Functions & Passing arguments by parameter name & \cite{ceder2018quick} \\
+    Functions & Variable number of arguments & \cite{ceder2018quick} \\
+    Functions & Dealing with an indefinite number of positional arguments & \cite{ceder2018quick} \\
+    Functions & Dealing with an indefinite number of arguments passed by keyword & \cite{ceder2018quick} \\
+    Functions & Mutable objects as arguments & \cite{ceder2018quick} \\
+    Functions & Local and global variables & \cite{ceder2018quick} \\
+    Functions & lambda expressions & \cite{ceder2018quick} \\
+    Functions & Generator functions & \cite{ceder2018quick} \\
+    Functions & More generator functions & \cite{danjou2018serious} \\
+    Functions & Type Hints & \cite{sweigart2020beyond} \\
+    
+List-dict-comp & List and dictionary comprehensions & \cite{ceder2018quick} \\
+    List-dict-comp & Multiple for statement & \cite{danjou2018serious} \\
+    List-dict-comp & Generator expressions & \cite{ceder2018quick} \\
+    List-dict-comp & Functional Programming & \cite{sweigart2020beyond} \\
+    List-dict-comp & Side effect & \cite{sweigart2020beyond} \\
+    List-dict-comp & Higher-Order Functions & \cite{sweigart2020beyond} \\
+    List-dict-comp & Applying functions to items with map() & \cite{danjou2018serious} \\
+    List-dict-comp & Filtering List with filter() & \cite{danjou2018serious} \\
+    List-dict-comp & Finding items that satisfy conditions with any() and all() & \cite{danjou2018serious} \\
+    List-dict-comp & Python Tricks & \cite{mayer2020oneliners} \\
+    List-dict-comp & Using list comprehension to find top earners & \cite{mayer2020oneliners} \\
+    List-dict-comp & Using Generator expressions to find companies that pay below minimum wage & \cite{mayer2020oneliners} \\
+    
+
+\end{longtable}
+\end{landscape}
+
+\restoregeometry
+\bibliographystyle{apalike}
+\bibliography{ref_dmdu_2022_python_course}
+
+\end{document}

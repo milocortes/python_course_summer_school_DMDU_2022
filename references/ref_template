@@ -1,0 +1,45 @@
+\documentclass[10pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{longtable}
+\usepackage{natbib}
+\usepackage[a4paper]{geometry}
+\usepackage{pdflscape}
+
+\title{DMDU references}
+\begin{document}
+\sffamily
+
+\newgeometry{hmargin=.4in,vmargin=0.1in}
+
+\begin{landscape}
+\maketitle
+
+\begin{longtable}{|l|l|l|}
+\caption{References by topic}\\
+\hline
+\textbf{Section} & \textbf{Topic} & \textbf{Reference} \\
+\hline
+\endfirsthead
+\multicolumn{3}{c}%
+{\tablename\ \thetable\ -- \textit{Continued from previous page}} \\
+
+\hline
+\endhead
+\hline \multicolumn{3}{r}{\textit{Continued on next page}} \\
+\endfoot
+\hline
+\endlastfoot
+{% for k,v in content.items() -%}
+    {% for t,r in v.items() -%}
+        {{k}} & {{t}} & \cite{ {{r}} } \\
+    {% endfor %}
+{% endfor %}
+\end{longtable}
+\end{landscape}
+
+\restoregeometry
+\bibliographystyle{apalike}
+\bibliography{ref_dmdu_2022_python_course}
+
+\end{document}

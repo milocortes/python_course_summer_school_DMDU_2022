@@ -1,0 +1,32 @@
+\begin{thebibliography}{}
+
+\bibitem[Ceder, 2018]{ceder2018quick}
+Ceder, N. (2018).
+\newblock {\em The Quick Python Book}.
+\newblock Manning, third edition.
+
+\bibitem[Danjou, 2018]{danjou2018serious}
+Danjou, J. (2018).
+\newblock {\em Serious Python. Black-Belt Advice on Deployment, Scalability,
+  Testing, and More}.
+\newblock No Starch Press.
+
+\bibitem[Gorelick and Ozsvald, 2020]{gorelick2020high}
+Gorelick, M. and Ozsvald, I. (2020).
+\newblock {\em High Performance Python: Practical Performant Programming for
+  Humans}.
+\newblock O'Reilly Media.
+
+\bibitem[Mayer, 2020]{mayer2020oneliners}
+Mayer, C. (2020).
+\newblock {\em Python One-Liners: Write Concise, Eloquent Python Like a
+  Professional}.
+\newblock No Starch Press.
+
+\bibitem[Sweigart, 2020]{sweigart2020beyond}
+Sweigart, A. (2020).
+\newblock {\em Beyond the Basic Stuff with Python: Best Practices for Writing
+  Clean Code}.
+\newblock No Starch Press.
+
+\end{thebibliography}
