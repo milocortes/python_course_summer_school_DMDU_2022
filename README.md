@@ -13,7 +13,8 @@ Preparation course for the summer school DMDU 2022.
 	- while loop
 	- if-elif-else
 	- for loop
-* List and Dictionaries comprehensions:
+* List and Dictionaries comprehensions.
+* Functional programming.
 * Functions:
 	- Basic functions definitions.
 	- Lambda functions.
