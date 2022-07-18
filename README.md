@@ -18,13 +18,9 @@ Preparation course for the summer school DMDU 2022.
 * Functions:
 	- Basic functions definitions.
 	- Lambda functions.
-* Classes and Object Oriented Programming (OOP).
-	- Class definition
-	- Instance variables
-	- Methods
-	- Inheritance
 * Reading and writing files.
 * Numpy
+* Pandas
 
 ## Additional resources
 

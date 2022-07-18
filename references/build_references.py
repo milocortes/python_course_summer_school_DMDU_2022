@@ -73,7 +73,34 @@ content = {"Variables and data types" : {"Variables and data types":"ceder2018qu
                           "Finding items that satisfy conditions with any() and all()": "danjou2018serious",
                           "Python Tricks" : "mayer2020oneliners",
                           "Using list comprehension to find top earners":  "mayer2020oneliners",
-                          "Using Generator expressions to find companies that pay below minimum wage" : "mayer2020oneliners"}
+                          "Using Generator expressions to find companies that pay below minimum wage" : "mayer2020oneliners"},
+
+            "Numpy" : {
+                          "Numpy" : "mayer2020oneliners",
+                          "Main memory and caches" : "herlihy20211",
+                          "Processors" : "herlihy20211",
+                          "Main memory and caches" : "herlihy20211",
+                          "L1, L2 and L3 caches" : "robey2021parallel",
+                          "Granularity" : "herlihy20211",
+                          "Vectorized operations" : "robey2021parallel",
+                          "let's get to hands on" : "mayer2020oneliners",
+                          "Problem 1" : "mayer2020oneliners",
+                          "Working with numpy arrays" : "mayer2020oneliners",
+                          "Broadcasting" : "mayer2020oneliners",
+                          "Problem 2" : "mayer2020oneliners",
+                          "Array types" : "mayer2020oneliners",
+                          "Conditional array search" : "mayer2020oneliners",
+                          "Reshaping and Resizing" : "johansson10numerical",
+                          "Matrix and Vector Operations" : "johansson10numerical"},
+
+            "Pandas" : {
+                          "Pandas" : "paskhaver2021pandas",
+                          "Importing a data set" : "paskhaver2021pandas",
+                          "Manipulating a DataFrame" : "paskhaver2021pandas",
+                          "Counting values in a Series" : "paskhaver2021pandas",
+                          "Filtering a column by one or more criteria" : "paskhaver2021pandas",
+                          "Grouping data" : "paskhaver2021pandas"
+            }
 
            }
 

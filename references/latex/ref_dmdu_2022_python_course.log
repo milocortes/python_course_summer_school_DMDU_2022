@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.22)  10 JUL 2022 21:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2021.9.22)  17 JUL 2022 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -253,16 +253,16 @@ LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10> not available
 
 
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-(./ref_dmdu_2022_python_course.bbl) [3
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
+(./ref_dmdu_2022_python_course.bbl) [4
 
 
 ] (./ref_dmdu_2022_python_course.aux) ) 
 Here is how much of TeX's memory you used:
- 2701 strings out of 483080
- 38368 string characters out of 5963339
- 302501 words of memory out of 5000000
- 17720 multiletter control sequences out of 15000+600000
+ 2717 strings out of 483080
+ 38714 string characters out of 5963339
+ 302625 words of memory out of 5000000
+ 17736 multiletter control sequences out of 15000+600000
  537247 words of font info for 40 fonts, out of 8000000 for 9000
  62 hyphenation exceptions out of 8191
  38i,6n,29p,231b,234s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -273,10 +273,10 @@ fonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmss12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 s17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssbx10.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on ref_dmdu_2022_python_course.pdf (3 pages, 74359 bytes).
+Output written on ref_dmdu_2022_python_course.pdf (4 pages, 78768 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 29 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

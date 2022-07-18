@@ -17,11 +17,32 @@ Gorelick, M. and Ozsvald, I. (2020).
   Humans}.
 \newblock O'Reilly Media.
 
+\bibitem[Herlihy et~al., 2021]{herlihy20211}
+Herlihy, M., Shavit, N., Luchangco, V., and Spear, M. (2021).
+\newblock {\em The Art of Multiprocessor Programming (Second Edition)}.
+\newblock Morgan Kaufmann, Boston, second edition edition.
+
+\bibitem[Johansson, 2019]{johansson10numerical}
+Johansson, R. (2019).
+\newblock Numerical python: Scientific computing and data science applications
+  with numpy, scipy and matplotlib.
+\newblock {\em DOI: https://doi. org/10.1007/978-1-4842-4246-9}.
+
 \bibitem[Mayer, 2020]{mayer2020oneliners}
 Mayer, C. (2020).
 \newblock {\em Python One-Liners: Write Concise, Eloquent Python Like a
   Professional}.
 \newblock No Starch Press.
+
+\bibitem[Paskhaver, 2021]{paskhaver2021pandas}
+Paskhaver, B. (2021).
+\newblock {\em Pandas in Action}.
+\newblock Manning, first edition.
+
+\bibitem[Robey and Zamora, 2021]{robey2021parallel}
+Robey, R. and Zamora, Y. (2021).
+\newblock {\em Parallel and High Performance Computing}.
+\newblock Manning, first edition.
 
 \bibitem[Sweigart, 2020]{sweigart2020beyond}
 Sweigart, A. (2020).
