@@ -11,6 +11,8 @@ content = {"Variables and data types" : {"Variables and data types":"ceder2018qu
                                          "Variables and assignments": "ceder2018quick",
                                          "Expressions": "ceder2018quick",
                                          "Strings": "ceder2018quick",
+                                         "Basic string operations" : "ceder2018quick",
+                                         "Using the format method" : "ceder2018quick",
                                          "Casting variables": "ceder2018quick",
                                          "Getting input from user": "ceder2018quick",
                                          "Basic python style": "ceder2018quick"},
@@ -74,6 +76,16 @@ content = {"Variables and data types" : {"Variables and data types":"ceder2018qu
                           "Python Tricks" : "mayer2020oneliners",
                           "Using list comprehension to find top earners":  "mayer2020oneliners",
                           "Using Generator expressions to find companies that pay below minimum wage" : "mayer2020oneliners"},
+
+            "Read-Write files" : {
+                            "Opening files and file objects" : "ceder2018quick",
+                            "Closing files" : "ceder2018quick",
+                            "Opening files in write or other modes" : "ceder2018quick",
+                            "Functions to read and write text or binary data": "ceder2018quick",
+                            "JSON files" :  "kong2020python",
+                            "Writing a json file": "kong2020python",
+                            "Reading a JSON file": "kong2020python"
+            },
 
             "Numpy" : {
                           "Numpy" : "mayer2020oneliners",
